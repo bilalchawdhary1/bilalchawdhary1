@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal Chawdhary</h1>
 <h3 align="center">A passionate developer from pakistan</h3>
 
-username=bilalchawdhary" alt="bilalchawdhary" /></a> </p>
-
 - 📫 How to reach me **chbilalc627@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
